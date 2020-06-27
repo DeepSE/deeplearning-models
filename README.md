@@ -17,7 +17,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/basic-ml/softmax-regression.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/softmax-regression.ipynb) | [Colab](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/softmax-regression.ipynb)]   
 - Softmax Regression with MLxtend's plot_decision_regions on Iris  
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/basic-ml/softmax-regression-mlxtend-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/softmax-regression-mlxtend-1.ipynb) |
- [Colab] (https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/softmax-regression-mlxtend-1.ipynb)]
+ [Colab](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/softmax-regression-mlxtend-1.ipynb)]
 
 
 
