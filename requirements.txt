@@ -1,0 +1,12 @@
+IPython
+ipykernel
+torch
+watermark
+matplotlib
+tensorwatch
+sklearn
+pandas
+pydot
+hiddenlayer
+graphviz
+torchvision

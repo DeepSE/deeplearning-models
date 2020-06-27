@@ -142,3 +142,5 @@ ENV/
 
 # Datasets
 MNIST*
+.venv
+.vscode
