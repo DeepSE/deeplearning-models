@@ -52,18 +52,18 @@ A collection of various deep learning architectures, models, and tips for Tensor
 #### Concepts
 
 - Replacing Fully-Connnected by Equivalent Convolutional Layers   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/fc-to-conv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/fc-to-conv.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/fc-to-conv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/fc-to-conv.ipynb) ]
 
 
 #### Fully Convolutional
 
 - Fully Convolutional Neural Network   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-allconv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-allconv.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-allconv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-allconv.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-allconv.ipynb)]
 
 #### LeNet
 
 - LeNet-5 on MNIST   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-lenet5-mnist.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-lenet5-mnist.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-lenet5-mnist.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-lenet5-mnist.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-lenet5-mnist.ipynb) ]
 - LeNet-5 on CIFAR-10   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-lenet5-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-lenet5-cifar10.ipynb)]  
 - LeNet-5 on QuickDraw  
@@ -72,13 +72,13 @@ A collection of various deep learning architectures, models, and tips for Tensor
 #### AlexNet
 
 - AlexNet on CIFAR-10   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-alexnet-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-alexnet-cifar10.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-alexnet-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-alexnet-cifar10.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-alexnet-cifar10.ipynb)]
 
 #### VGG
 
 - Convolutional Neural Network VGG-16   
 &nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/cnn/cnn-vgg16.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/cnn/cnn-vgg16.ipynb)]  
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-vgg16.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-vgg16.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-vgg16.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-vgg16.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-vgg16.ipynb) ]
 - VGG-16 Gender Classifier Trained on CelebA   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-vgg16-celeba.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-vgg16-celeba.ipynb)]
 - VGG-16 Dogs vs Cats Classifier  
@@ -208,11 +208,11 @@ A collection of various deep learning architectures, models, and tips for Tensor
 ## Graph Neural Networks (GNNs)
 
 - Most Basic Graph Neural Network with Gaussian Filter on MNIST    
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gnn/gnn-basic-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gnn/gnn-basic-1.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gnn/gnn-basic-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gnn/gnn-basic-1.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/gnn/gnn-basic-1.ipynb)]
 - Basic Graph Neural Network with Edge Prediction on MNIST    
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gnn/gnn-basic-edge-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gnn/gnn-basic-edge-1.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gnn/gnn-basic-edge-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gnn/gnn-basic-edge-1.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/gnn/gnn-basic-edge-1.ipynb)]
 - Basic Graph Neural Network with Spectral Graph Convolution on MNIST  
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gnn/gnn-basic-graph-spectral-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gnn/gnn-basic-graph-spectral-1.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gnn/gnn-basic-graph-spectral-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gnn/gnn-basic-graph-spectral-1.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/gnn/gnn-basic-graph-spectral-1.ipynb)]
 
 ## Recurrent Neural Networks (RNNs)
 
