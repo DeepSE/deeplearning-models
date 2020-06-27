@@ -25,10 +25,10 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - Multilayer Perceptron   
 &nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/mlp/mlp-basic.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-basic.ipynb)]  
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mlp/mlp-basic.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-basic.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mlp/mlp-basic.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-basic.ipynb) | [Colab with Model graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-basic.ipynb)]
 - Multilayer Perceptron with Dropout   
 &nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/mlp/mlp-dropout.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-dropout.ipynb)]  
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mlp/mlp-dropout.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-dropout.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mlp/mlp-dropout.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-dropout.ipynb) | [Colab with Model Graph] (https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-dropout.ipynb) ]
 - Multilayer Perceptron with Batch Normalization   
 &nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/mlp/mlp-batchnorm.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-batchnorm.ipynb)]  
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mlp/mlp-batchnorm.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-batchnorm.ipynb)]
