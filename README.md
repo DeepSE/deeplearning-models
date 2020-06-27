@@ -89,14 +89,14 @@ A collection of various deep learning architectures, models, and tips for Tensor
 #### DenseNet
 
 - DenseNet-121 Digit Classifier Trained on MNIST   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-densenet121-mnist.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-densenet121-mnist.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-densenet121-mnist.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-densenet121-mnist.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-densenet121-mnist.ipynb) ]
 - DenseNet-121 Image Classifier Trained on CIFAR-10   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-densenet121-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-densenet121-cifar10.ipynb)]
 
 #### ResNet
 
 - ResNet and Residual Blocks   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/resnet-ex-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/resnet-ex-1.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/resnet-ex-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/resnet-ex-1.ipynb)| [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/cnn/resnet-ex-1.ipynb) ]
 - ResNet-18 Digit Classifier Trained on MNIST   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-resnet18-mnist.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-resnet18-mnist.ipynb)]
 - ResNet-18 Gender Classifier Trained on CelebA   
@@ -121,7 +121,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 #### Network in Network
 
 - Network in Network CIFAR-10 Classifier   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/nin-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/nin-cifar10.ipynb)]  
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/nin-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/nin-cifar10.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/cnn/nin-cifar10.ipynb)]  
 
 ## Normalization Layers
 
