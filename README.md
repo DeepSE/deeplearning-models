@@ -155,7 +155,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - Convolutional Autoencoder with Deconvolutions / Transposed Convolutions  
 &nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/autoencoder/ae-deconv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/autoencoder/ae-deconv.ipynb)]  
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/autoencoder/ae-deconv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-deconv.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/autoencoder/ae-deconv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-deconv.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-deconv.ipynb) ]
 - Convolutional Autoencoder with Deconvolutions and Continuous Jaccard Distance  
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/autoencoder/ae-deconv-jaccard.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-deconv-jaccard.ipynb)]
 - Convolutional Autoencoder with Deconvolutions (without pooling operations)   
@@ -171,9 +171,9 @@ A collection of various deep learning architectures, models, and tips for Tensor
 #### Variational Autoencoders
 
 - Variational Autoencoder   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/autoencoder/ae-var.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-var.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/autoencoder/ae-var.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-var.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-var.ipynb) ]
 - Convolutional Variational Autoencoder   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/autoencoder/ae-conv-var.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-conv-var.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/autoencoder/ae-conv-var.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-conv-var.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-conv-var.ipynb) ]
 
 #### Conditional Variational Autoencoders
 
@@ -221,7 +221,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 #### Many-to-one: Sentiment Analysis / Classification
 
 - A simple single-layer RNN (IMDB)   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/rnn/rnn_simple_imdb.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_simple_imdb.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/rnn/rnn_simple_imdb.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_simple_imdb.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_simple_imdb.ipynb)]
 - A simple single-layer RNN with packed sequences to ignore padding characters (IMDB)   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/rnn/rnn_simple_packed_imdb.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_simple_packed_imdb.ipynb)]
 - RNN with LSTM cells (IMDB)   
@@ -233,9 +233,9 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - RNN with GRU cells (IMDB)   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/rnn/rnn_gru_packed_imdb.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_gru_packed_imdb.ipynb)]
 - Multilayer bi-directional RNN (IMDB)   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/rnn/rnn_lstm_bi_imdb.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_lstm_bi_imdb.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/rnn/rnn_lstm_bi_imdb.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_lstm_bi_imdb.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_lstm_bi_imdb.ipynb)]
 - Bidirectional Multi-layer RNN with LSTM with Own Dataset in CSV Format (AG News)     
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/rnn/rnn_bi_multilayer_lstm_own_csv_agnews.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_bi_multilayer_lstm_own_csv_agnews.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/rnn/rnn_bi_multilayer_lstm_own_csv_agnews.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_bi_multilayer_lstm_own_csv_agnews.ipynb) | [Colab with Model Graph](https://colab.research.google.com/github/DeepSE/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_bi_multilayer_lstm_own_csv_agnews.ipynb)]
 
 
 #### Many-to-Many / Sequence-to-Sequence
